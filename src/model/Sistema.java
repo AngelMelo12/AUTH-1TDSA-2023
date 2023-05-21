@@ -1,6 +1,6 @@
 package model;
 
-import Pessoa.Pessoa;
+import pessoa.Pessoa;
 
 import java.util.Collection;
 

@@ -1,6 +1,4 @@
-package Pessoa;
-
-import Pessoa.Pessoa;
+package pessoa;
 
 import java.time.LocalDate;
 import java.util.Collection;
